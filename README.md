@@ -1,4 +1,7 @@
-# beer-app-test
+## Тестовое задание на одном из моих собеседований
+
+![Vue-beer](https://user-images.githubusercontent.com/69976961/162355902-08391467-c844-4d6a-b9fc-05d436bb29bf.png)
+
 
 ## Project setup
 ```
@@ -14,6 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
